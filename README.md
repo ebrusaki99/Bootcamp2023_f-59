@@ -1,68 +1,59 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+Flutter 59
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Ebru Saki: Scrum Master 
+- Elif Sare Kirazlı: Product Owner
+- Mehmet Said Hüseyinoğlu: Developer
+- Oğuzhan Kalaycı: Developer
+- Hiraz Gülmez: Developer
 
 ## Ürün İsmi
 
---Scrap App--
+--Routine Care--
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 59 Miro Backlog Board](https://miro.com/app/dashboard/)
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
-
-
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
-
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlarını hafifletmek ve genel olarak daha sağlıklı bir cilde sahip olmak için kullanabilecekleri bir dizi ürünün kullanım sıralamasını gösteren kişiselleştirilmiş bir uygulamadır. Uygulama, kullanıcıya cilt bakım rutinini düzenli olarak takip etmesi için hatırlatıcılar gönderir. Bu hatırlatıcılar, temizleme, nemlendirme, güneş koruması gibi günlük rutin adımlarını hatırlatırken, haftalık veya aylık bazda daha özel bakım adımlarını içeren bir dizi özellik içerir.Böylece kullanıcılar, cilt bakımını aksatmadan sürdürebilirler.Kullanıcılar kişisel cilt bakım rutinlerinde yer alan temizleme, tonik, nemlendirme, güneş koruması gibi adımların hangi sıra ile olması gerektiğini sunar.Bu özellikler, kullanıcılara cilt bakım rutinlerini yönetmeleri konusunda rehberlik etmek için bir temel oluşturabilir. Ancak, cilt bakımı kişisel bir konudur ve her bireyin cilt tipi ve ihtiyaçları farklıdır. Bu nedenle, uygulamaların kullanıcılara kişiselleştirilmiş öneriler sunabilmesi önemlidir.
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
-
+- Kişiselleştirilmiş Özel Cilt Bakım Rutini: Uygulama bir kişisel cilt bakım rutini oluşturmalıdır. Bu rutin, temizleme, tonik, nemlendirme, güneş koruması gibi adımların hangi sıra ile yapılacağını içerir.
+- Hatırlatıcılar: Uygulama, kullanıcıya cilt bakım rutinini düzenli olarak takip etmesi için hatırlatıcılar gönderir. Bu hatırlatıcılar, temizleme, nemlendirme, güneş koruması gibi günlük rutin adımlarını hatırlatırken, haftalık veya aylık bazda daha özel bakım adımlarını da içerebilir.
+- Ürün Bilgileri ve İncelemeleri: Uygulama, farklı cilt bakım ürünleri hakkında detaylı bilgiler ve kullanıcı incelemeleri sunar. Kullanıcılar, ürünleri araştırabilir, içerikleri kontrol edebilir ve diğer kullanıcıların deneyimlerini değerlendirebilir. Bu sayede, kullanıcılar kendi ihtiyaçlarına uygun ürünleri seçebilirler.
+- Hava Durumu ve İklim Etkisi: Uygulama, kullanıcının bulunduğu bölgedeki hava durumu ve iklim koşullarını takip ederek, bu faktörlerin cilt üzerindeki etkilerini gösterebilir. Örneğin, nemli havalarda nemlendirici kullanımını artırabilir veya güneşli günlerde güneş koruması gerekliliğini hatırlatabilir.
+  
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
-
-## Juriye Not
-
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
+- Genç Yetişkinler: Ergenlik döneminden itibaren cilt problemleriyle mücadele eden ve cilt bakımı alışkanlıklarını geliştirmek isteyen genç yetişkinler
+- Profesyoneller: Yoğun iş temposu ve stres altında çalışan profesyoneller, cilt bakımına zaman ayırmakta zorlanabilir. Bu nedenle, pratik ve etkili cilt bakım rutinleri, hızlı sonuçlar ve zaman yönetimi önerileri sunulabilir
+- Hassas Cilt Sahipleri: Hassas cilde sahip olanlar, cilt bakım ürünleri ve yöntemleri konusunda daha dikkatli olmalıdır. Bu hedef kitleye yönelik olarak, hassas cilt tiplerine uygun ürünlerin tanıtımı ve önerileri yapılabilir.
+- Anti-Aging ve Cilt Sağlığı Meraklıları: Yaşlanma belirtilerini geciktirmek ve genel olarak cilt sağlığını korumak isteyen bireyler, anti-aging cilt bakımına odaklanan bir uygulamadan fayda sağlayabilir. Kırışıklık önleyici ürünler, güneş koruması, antioksidanlar ve kolajen destekleyici içerikler gibi konulara odaklanılabilir.
+- Erkekler: Cilt bakımı artık sadece kadınlar için değil, erkekler için de önemli bir konu haline gelmiştir. Erkekler için tasarlanmış cilt bakım ürünleri, tıraş sonrası bakım ipuçları ve erkeklere özel cilt sorunlarına yönelik içerikler sunulabilir.
 
 
 ---
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in takım arkadaşlarının dönem sonu yoğunluğundan ötürü 50 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-
+![Backlog 1]([
+(https://miro.com/app/board/uXjVM9ufoVY=/#tpicker-content)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
@@ -82,65 +73,56 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9ufoVY=/#tpicker-content)
 
 ---
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+- **Daily Scrum**: 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2022-05-22%2019_25_30-Window.png) 
+- **Sprint board update**: 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+ 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+ 
 
 
 ---
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+
 
 ---
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
+- **Daily Scrum**: 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+- **Sprint board update**: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
+- **Ürün Durumu**: 
 
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - 
 
 
 ---
