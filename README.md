@@ -25,7 +25,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 ## Ürün Özellikleri
 
 - Kişiselleştirilmiş Özel Cilt Bakım Rutini: Uygulama bir kişisel cilt bakım rutini oluşturmalıdır. Bu rutin, temizleme, tonik, nemlendirme, güneş koruması gibi adımların hangi sıra ile yapılacağını içerir.
-- Hatırlatıcılar: Uygulama, kullanıcıya cilt bakım rutinini düzenli olarak takip etmesi için hatırlatıcılar gönderir. Bu hatırlatıcılar, temizleme, nemlendirme, güneş koruması gibi günlük rutin adımlarını hatırlatırken, haftalık veya aylık bazda daha özel bakım adımlarını da içerebilir.
+- Hatırlatıcılar: Uygulama, kullanıcıya cilt bakım rutinini düzenli olarak takip etmesi için hatırlatıcılar gönderir. Bu hatırlatıcılar, temizleme, nemlendirme, güneş koruması gibi günlük rutin adımlarını hatırlatırken, haftalık veya aylık bazda daha özel bakım adımlarını da içerir.
 - Ürün Bilgileri ve İncelemeleri: Uygulama, farklı cilt bakım ürünleri hakkında detaylı bilgiler ve kullanıcı incelemeleri sunar. Kullanıcılar, ürünleri araştırabilir, içerikleri kontrol edebilir ve diğer kullanıcıların deneyimlerini değerlendirebilir. Bu sayede, kullanıcılar kendi ihtiyaçlarına uygun ürünleri seçebilirler.
 - Hava Durumu ve İklim Etkisi: Uygulama, kullanıcının bulunduğu bölgedeki hava durumu ve iklim koşullarını takip ederek, bu faktörlerin cilt üzerindeki etkilerini gösterebilir. Örneğin, nemli havalarda nemlendirici kullanımını artırabilir veya güneşli günlerde güneş koruması gerekliliğini hatırlatabilir.
   
