@@ -42,11 +42,11 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 
 # Sprint 1
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in takım arkadaşlarının dönem sonu yoğunluğundan ötürü 50 ile başlaması gerektiğine karar verildi. 2. sprint 150 puan, 3. sprint ise 100 puan olarak kararlaştırıldı.
-
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
@@ -58,6 +58,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
   ![Screenshot 1]
   ![Screenshot 2]
   ![Screenshot 3]
+
 - **Sprint Review**: 
 Alınan kararlar: Sprint hedeflerine takım arkadaşlarımızın iş yoğunluğu ve sınav haftaları dolayısıyla tam olarak ulaşılamadı.
 
